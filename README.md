@@ -1,1 +1,1 @@
-# Basic Spring Project
+# Basic Spring Java Project
